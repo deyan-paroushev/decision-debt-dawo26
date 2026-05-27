@@ -1,0 +1,10 @@
+code,name,description
+A,acceptability,Acceptability or assent/veto visibility preserved by the procedure.
+O,ordinal_ordering,Ordinal ranking information preserved by the procedure.
+I,intensity,Cardinal or graded strength-of-preference information preserved by the procedure.
+F,fallback_transfer,Fallback transfer or ranked-contingency information preserved by the procedure.
+M,pairwise_majority,Pairwise majority relation information preserved by the procedure.
+P,proportional_distributive_structure,Proportional or distributive allocation sensitivity preserved by the procedure.
+D,delegable_agency,Delegable agency information introduced by delegation/liquid-democracy overlay.
+T,temporal_persistence,Temporal persistence or conviction-over-time information preserved by the procedure.
+J,justificatory_objection,Justificatory objection or consent-based objection information preserved by the procedure.

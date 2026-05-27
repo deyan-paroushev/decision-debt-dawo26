@@ -1,0 +1,13 @@
+method,on_frontier_pct,unique_frontier_pct
+conviction_voting,30.24,22.425
+stv,28.635,14.92
+consent_based,22.32,16.885
+condorcet_schulze,16.125,14.075
+quadratic_voting,13.12,3.195
+irv,11.515,0.0
+cumulative_voting,7.815,0.0
+score_voting,6.845,0.0
+approval_voting,5.43,0.0
+simple_majority,2.775,0.0
+supermajority_2_3,2.775,0.0
+borda,2.045,0.0

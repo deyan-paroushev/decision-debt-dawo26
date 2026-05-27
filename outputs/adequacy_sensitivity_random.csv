@@ -1,0 +1,5 @@
+mode,top_method,top_on_frontier_pct,tie_pct,never_frontier
+ratio,conviction_voting,30.24,28.5,
+strict,conviction_voting,31.935,29.455,
+sqrt_ratio,conviction_voting,29.84,28.47,
+presence_only,conviction_voting,29.095,30.375,

@@ -1,0 +1,6 @@
+decision_type,A,O,I,F,M,P,D,T,J,w_A,w_O,w_I,w_F,w_M,w_P,w_D,w_T,w_J,default_method
+budget_allocation,1,1,2,0,0,2,0,0,0,0.15,0.15,0.35,0,0,0.35,0,0,0,approval_voting
+binary_policy_ratification,2,0,0,0,1,0,0,0,1,0.55,0,0,0,0.20,0,0,0,0.25,simple_majority
+multi_candidate_election,1,2,0,1,2,0,0,0,0,0.10,0.35,0,0.20,0.35,0,0,0,0,borda
+membership_threshold_admission,2,0,0,0,1,0,0,1,2,0.40,0,0,0,0.20,0,0,0.10,0.30,supermajority_2_3
+parameter_tuning,0,1,2,0,0,1,0,1,0,0,0.20,0.45,0,0,0.15,0,0.20,0,score_voting

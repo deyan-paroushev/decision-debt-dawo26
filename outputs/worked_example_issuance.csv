@@ -1,0 +1,5 @@
+method,L1_issuance
+approval_voting,0.75
+score_voting,0.5
+quadratic_voting,0.333
+condorcet_schulze,0.75

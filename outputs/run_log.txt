@@ -1,0 +1,36 @@
+SEED 20260526
+numpy 2.3.5 pandas 2.2.3
+Worked-example verification passed.
+Matrix:
+                   A  O  I  F  M  P  D  T  J
+simple_majority    1  0  0  0  0  0  0  0  0
+supermajority_2_3  1  0  0  0  0  0  0  0  0
+approval_voting    2  0  0  0  0  0  0  0  0
+score_voting       0  1  2  0  0  0  0  0  0
+irv                0  2  0  2  0  0  0  0  0
+borda              0  2  0  0  0  0  0  0  0
+condorcet_schulze  0  2  0  0  2  0  0  0  0
+quadratic_voting   0  1  2  0  0  1  0  0  0
+conviction_voting  0  0  2  0  0  2  0  2  0
+stv                0  2  0  2  0  2  0  0  0
+cumulative_voting  0  0  2  0  0  2  0  0  0
+consent_based      2  0  0  0  0  0  0  0  2
+
+TABLE 2 FRONTIER SHARES
+           method  on_frontier_random_profiles_pct  on_frontier_exhaustive_profiles_pct
+conviction_voting                           30.240                            61.955086
+              stv                           28.635                            61.650239
+    consent_based                           22.320                            26.348948
+condorcet_schulze                           16.125                            21.715273
+ quadratic_voting                           13.120                            22.980388
+              irv                           11.515                            17.569353
+cumulative_voting                            7.815                             7.600854
+     score_voting                            6.845                             9.170816
+  approval_voting                            5.430                             1.747790
+  simple_majority                            2.775                             0.878976
+supermajority_2_3                            2.775                             0.878976
+            borda                            2.045                             0.467432
+random_tie_pct 28.500
+exhaustive_tie_pct 57.885
+
+Wrote outputs to outputs

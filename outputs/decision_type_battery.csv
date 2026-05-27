@@ -1,0 +1,6 @@
+decision_type,active_dims,frontier,U,default_method,default_excess,mean_excess,max_excess
+budget_allocation,"A,O,I,P",conviction_voting;cumulative_voting,0.30000000000000004,approval_voting,0.55,0.35625,0.55
+binary_policy_ratification,"A,M,J",consent_based,0.2,simple_majority,0.5250000000000001,0.625,0.8
+multi_candidate_election,"A,O,F,M",condorcet_schulze,0.30000000000000004,borda,0.3500000000000001,0.4583333333333335,0.7000000000000002
+membership_threshold_admission,"A,M,T,J",consent_based,0.30000000000000004,supermajority_2_3,0.5,0.5499999999999999,0.7
+parameter_tuning,"O,I,P,T",quadratic_voting;conviction_voting,0.2,score_voting,0.14999999999999997,0.48333333333333334,0.8

@@ -1,0 +1,12 @@
+dominant,dominated
+approval_voting,simple_majority
+approval_voting,supermajority_2_3
+irv,borda
+condorcet_schulze,borda
+quadratic_voting,score_voting
+conviction_voting,cumulative_voting
+stv,irv
+stv,borda
+consent_based,simple_majority
+consent_based,supermajority_2_3
+consent_based,approval_voting

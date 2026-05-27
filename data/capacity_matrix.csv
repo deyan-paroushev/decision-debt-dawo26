@@ -1,0 +1,13 @@
+method,A,O,I,F,M,P,D,T,J
+simple_majority,1,0,0,0,0,0,0,0,0
+supermajority_2_3,1,0,0,0,0,0,0,0,0
+approval_voting,2,0,0,0,0,0,0,0,0
+score_voting,0,1,2,0,0,0,0,0,0
+irv,0,2,0,2,0,0,0,0,0
+borda,0,2,0,0,0,0,0,0,0
+condorcet_schulze,0,2,0,0,2,0,0,0,0
+quadratic_voting,0,1,2,0,0,1,0,0,0
+conviction_voting,0,0,2,0,0,2,0,2,0
+stv,0,2,0,2,0,2,0,0,0
+cumulative_voting,0,0,2,0,0,2,0,0,0
+consent_based,2,0,0,0,0,0,0,0,2

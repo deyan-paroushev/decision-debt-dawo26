@@ -1,0 +1,12 @@
+[project]
+name = "decision-debt-dawo26"
+version = "1.0.0"
+description = "Reproducibility package for the DAWO26 Decision Debt paper"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "Deyan Paroushev", email = "dparoushev@hotmail.com"}]
+license = {text = "MIT for code; CC-BY-4.0 for data and documentation"}
+dependencies = ["numpy>=1.23", "pandas>=1.5"]
+
+[tool.setuptools]
+py-modules = []

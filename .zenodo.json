@@ -1,0 +1,22 @@
+{
+  "title": "Decision Debt DAWO26 Reproducibility Package: capacity matrix and robustness analysis",
+  "creators": [
+    {
+      "name": "Paroushev, Deyan",
+      "orcid": "0009-0003-8231-8265"
+    }
+  ],
+  "description": "Focused software and data artifact for reproducing the Section 5.2 robustness analysis and Table 2 of the DAWO26 paper 'Decision debt: a framework for reasoning about avoidable information loss in collective decision procedures for DAO governance'. The package contains the author-specified capacity matrix, model computation, generated outputs, and regression tests. It verifies internal model behaviour under explicit assumptions; it is not empirical validation of the capacity matrix, elicitation wizard, or governance outcomes.",
+  "keywords": [
+    "DAO governance",
+    "decision support",
+    "social choice",
+    "voting methods",
+    "reproducibility",
+    "capacity matrix",
+    "Decision Debt"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "upload_type": "software"
+}

@@ -1,0 +1,13 @@
+{
+  "seed": 20260526,
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "n_random_profiles": 20000,
+  "n_exhaustive_profiles": 19682,
+  "random_tie_pct": 28.5,
+  "exhaustive_tie_pct": 57.88537750228635,
+  "top_random_frontier_method": "conviction_voting",
+  "top_random_frontier_pct": 30.24,
+  "top_exhaustive_frontier_method": "conviction_voting",
+  "top_exhaustive_frontier_pct": 61.955085865257594
+}

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software/data package, please cite it using the metadata below. Add the Zenodo DOI after archiving the GitHub release."
+title: "Decision Debt DAWO26 Reproducibility Package: capacity matrix and robustness analysis"
+version: "1.0.0"
+date-released: "2026-05-27"
+type: software
+authors:
+  - family-names: "Paroushev"
+    given-names: "Deyan"
+    orcid: "https://orcid.org/0009-0003-8231-8265"
+repository-code: "https://github.com/deyan-paroushev/decision-debt-dawo26"
+url: "https://github.com/deyan-paroushev/decision-debt-dawo26"
+abstract: >
+  Focused reproducibility package for the DAWO26 paper "Decision debt: a framework for reasoning about avoidable information loss in collective decision procedures for DAO governance". The package contains the author-specified twelve-method capacity matrix, model computation, robustness and sensitivity analysis, generated output tables, and regression tests. The package verifies internal model behaviour under explicit assumptions; it is not empirical validation of the capacity matrix, the elicitation wizard, or governance outcomes.
+keywords:
+  - DAO governance
+  - decision support
+  - social choice
+  - voting methods
+  - reproducibility
+  - capacity matrix
+  - Decision Debt
+license: MIT
