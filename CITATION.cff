@@ -1,7 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this software/data package, please cite it using the metadata below. Add the Zenodo DOI after archiving the GitHub release."
+message: "If you use this software/data package, please cite it using the metadata below."
 title: "Decision Debt DAWO26 Reproducibility Package: capacity matrix and robustness analysis"
 version: "1.0.0"
+doi: "10.5281/zenodo.20406810"
 date-released: "2026-05-27"
 type: software
 authors:

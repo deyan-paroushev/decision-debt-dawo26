@@ -1,5 +1,7 @@
 # Decision Debt DAWO26 Reproducibility Package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20406810.svg)](https://doi.org/10.5281/zenodo.20406810)
+
 This repository contains the focused reproducibility artifact for the DAWO26 paper:
 
 > **Decision debt: a framework for reasoning about avoidable information loss in collective decision procedures for DAO governance**  
@@ -179,30 +181,11 @@ The repository does **not** support a claim that Decision Debt is an externally 
 
 ## How to cite
 
-After archiving a tagged GitHub release to Zenodo, replace the placeholder DOI in `CITATION.cff` with the minted DOI.
+If you use this package, please cite the archived Zenodo release. The DOI below is the version-specific DOI for v1.0.0, the release that reproduces the results in the paper.
 
 Recommended citation form:
 
-> Paroushev, D. (2026). *Decision Debt DAWO26 Reproducibility Package: capacity matrix and robustness analysis* (v1.0.0) [Software and data]. Zenodo. https://doi.org/TO_BE_FILLED_AFTER_ZENODO_RELEASE
-
-## Suggested GitHub-to-Zenodo workflow
-
-1. Create a focused public GitHub repository, e.g. `decision-debt-dawo26`.
-2. Push only this package, not the full Quoruna codebase.
-3. Confirm tests pass:
-   ```bash
-   python scripts/reproduce_section_5_2.py
-   python -m unittest discover -s tests
-   ```
-4. Commit generated `outputs/` so reviewers can inspect expected results without rerunning.
-5. Create a Git tag:
-   ```bash
-   git tag -a v1.0.0 -m "DAWO26 reproducibility package v1.0.0"
-   git push origin v1.0.0
-   ```
-6. Archive the GitHub release on Zenodo.
-7. Update `CITATION.cff` and the paper's Data and Code Availability statement with the Zenodo DOI.
-8. If the DOI is minted after camera-ready upload, provide the Zenodo link/DOI to the editors during proofing if permitted.
+> Paroushev, D. (2026). *Decision Debt DAWO26 Reproducibility Package: capacity matrix and robustness analysis* (v1.0.0) [Software and data]. Zenodo. https://doi.org/10.5281/zenodo.20406810
 
 ## License
 
